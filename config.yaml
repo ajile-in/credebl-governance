@@ -7,7 +7,6 @@ teams:
       - thelinuxfoundation
   - name: admins
     maintainers:
-      - DeepakNemad
       - KambleSahil3
       - ajile-in
       - amitpadmani-awts
@@ -40,7 +39,7 @@ teams:
       - KambleSahil3
   - name: devops-team
     maintainers:
-      - DeepakNemad
+      - ajile-in
     members:
       - KambleSahil3
   - name: github-committers
@@ -65,13 +64,11 @@ teams:
       - RinkalBhojani
   - name: qa-team
     maintainers:
-      - DeepakNemad
       - ajile-in
     members:
       - RinkalBhojani
   - name: security-managers
     maintainers:
-      - DeepakNemad
       - ajile-in
       - kkkulkarni
     members:
@@ -86,7 +83,6 @@ teams:
       - amitpadmani-awts
       - kkkulkarni
     members:
-      - DeepakNemad
   - name: tsc
     maintainers:
       - ajile-in
@@ -118,14 +114,12 @@ teams:
   - name: platform-admin-team
     maintainers:
       - ajile-in
-      - DeepakNemad
     members:
       - RinkalBhojani
       - shitrerohit
   - name: docs-maintainer-team
     maintainers:
       - ajile-in
-      - DeepakNemad
     members:
       - RinkalBhojani
 repositories:
